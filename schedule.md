@@ -9,10 +9,10 @@
 |[5](./lesson-plans/lesson5.md)|September 30, 2019|Anonymity and the Right to be Forgotten|[John Oliver](https://www.youtube.com/watch?v=r-ERajkMXw0), [GDPR Enumeration](https://gdpr-info.eu/art-17-gdpr/), [NPR](https://www.npr.org/2015/03/18/393643901/debate-should-the-u-s-adopt-the-right-to-be-forgotten-online)| Governance of Technology |
 |6|October 7, 2019| No class - Reading Day |  | |
 |[7](./lesson-plans/lesson7.md)|October 14, 2019|Data Ownership and Privacy|	[NY Times](https://www.nytimes.com/2018/10/04/opinion/ro-khanna-internet-bill-of-rights.html) or [MIT Technology Review](https://www.technologyreview.com/s/612588/its-time-for-a-bill-of-data-rights/), [Brookings](https://www.brookings.edu/blog/techtank/2019/06/26/why-data-ownership-is-the-wrong-approach-to-protecting-privacy/), [Self-Sovereign Identity](https://qz.com/1706221/don-tapscott-on-using-blockchain-to-take-back-your-digital-identity/) | Governance of Technology |
-|8|October 21, 2019|Surveillance Capitalism, Begin Final Projects|  Surveillance Capitalism chapter (see Collab), [Interview](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)	| Governance of Technology |
-|9|October 28, 2019| Social Media & Democracy |   	||
+|[8](./lesson-plans/lesson8.md)|October 21, 2019|Surveillance Capitalism, Begin Final Projects|  Surveillance Capitalism chapter (see Collab), [Interview](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook), 	| Governance of Technology |
+|9|October 28, 2019| Social Media & Democracy | [Aeon](https://aeon.co/essays/digital-technologies-play-politics-lets-use-them-for-democracy), [Tech Crunch](https://techcrunch.com/2019/10/20/facebook-isnt-free-speech-its-algorithmic-amplification-optimized-for-outrage/), [NY Times](https://www.nytimes.com/2019/10/17/opinion/tech-monopoly-democracy-journalism.html)  	||
 |10|November 4, 2019|Bad Gov Tech & Its Consequences |  Automating Inequality chapter (see Collab), [Twitter post](https://twitter.com/supergovernance/status/1136949842696122368)	| Technology of Governance|
 |11|November 11, 2019|Digital Discourse|||
 |12|November 18, 2019|Current Tech Policy|||
 |-|November 25, 2019| Thanksgiving Week - No Class |   	||
-|13|December 2, 2019| Final Project Presentations|   	||
+|13|December 2, 2019| Techno-Optimism! |   	||
