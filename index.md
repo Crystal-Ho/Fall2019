@@ -12,6 +12,8 @@ The study and practice of digital governance should be the study and practice of
 
 - [How to Submit Assignments](./submit.md)
 
+- [Critique Assignment](./critique.md)
+
 ## Student Media Selections
 
 - [Crystal](./media-selections/Crystal.md)
@@ -23,7 +25,6 @@ The study and practice of digital governance should be the study and practice of
 - [Katherine](./media-selections/katherine.md)
 
 - [Prachi](./media-selections/Prachi.md)
-
 
 ## Contact
 
