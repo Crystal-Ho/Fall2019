@@ -47,3 +47,24 @@ After some research, I came across Andrew Yang's 7 points for implementing data 
 This article references Zuboff's book and responds to it by proposing 4 ways to avoid companies' behavioral manipulation. The four points are: 1) join the resistance, 2) minimize your interaction with technology, 3) do less phone-orientation activities, and 4) join an activist group. I thought this was interesting because Zuboff did not propose solutions to surveillance capitalism, but rather sought to define it. However, I don't agree with the simplicity of this article's answers. The article suggests that it is the individual's obligation to protect themself from exploitation and manipulation, which does nothing to dismantle the system but places more anxiety on the individual. These technologies that have been adopted for surveillance capitalism have been designed to create dependency, and it should be the duty of the owners of surveillance capital not manipulate. At the same time, I understand that if one is feeling frustrated/helpless against this beast, it could be easier to withdraw from participation than to propose and fight for reform.
 
 
+
+### Class 7 - Social Media and Democracy
+
+[CSPAN on Twitter](https://twitter.com/cspan/status/1187098428737753091?s=20)
+
+I love the energy AOC has during this questioning. She is unafraid to call Zuckerburg out on certain things - "in your ongoing dinner parties with far right figures..." - making him uncomfortable with what we all are already uncomfortable. It's interesting that his response to the question of taking content down is "yes, if it causes violence, harm, or voter supression," just tacking on the main issue at the end as if he's trying to mask his answer. I especially liked "I think lying is bad"; he's being condescending about morality and placing the job of fact-checking on individuals, while placing the blame of lying on those who spread disinformation instead of his company for propogating it. I think the topic of free speech is fascinating in this context. We need to redefine what free speech is and what safety is to maintain a democracy.
+
+
+### Class 8 - Bad Gov Tech and Its Consequences
+
+[Digital dystopia: how algorithms punish the poor ](https://www.theguardian.com/technology/2019/oct/14/automating-poverty-algorithms-punish-poor)
+
+The reading this week had to do with how automation disparately affects poor and underprivileged people. I found a similarly themed article from The Guardian that explores this concept further, extending its analysis outside of the US, too. It notes that the trend towards automation is "explosively recasting how low-income people interact with the state." It also explains how shifting the responsibility of decision making to an algorithm places accountability on a nonhuman actor, making it difficult to blame for errors and making it difficult to seek redress. This is especially dangerous for people without the resources to fight these changes, and it will allow systematic forms of oppression to proceed unchecked. 
+
+
+### Class 9 - Digital Discourse
+
+[Reconsidering Anonymity in the Age of Narcissism](https://gabriellacoleman.org/wp-content/uploads/2019/09/Coleman-end-trust-anonymity.pdf)
+
+This week's VICE video made me think more about the pros and cons of anonymity on the internet. It was a disturbing video that reminded me that anonymity has the potential to create unthinkably dark spaces such as 8chan. However, while scrolling through twitter, I came across an essay written by Gabriella Coleman about how anonymity can enable democratic processes like dissent and provide safe/protected spaces for discussing stigmatized subjects. She discusses different gradients of anonymity (like using a psuedonym and choosing an obscure avatar icon or concealing IP address). She also provides a thoughtful analysis on misinformation and how it spreads due to factors beyond anonymity. I'm not going to rewrite her whole article, but I think that it's an important essay to read.
+
